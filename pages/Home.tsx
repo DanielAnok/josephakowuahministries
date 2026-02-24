@@ -31,7 +31,7 @@ const Home: React.FC = () => {
       <section className="relative h-[85vh] flex items-center overflow-hidden bg-slate-900">
         <div className="absolute inset-0 z-0">
           <img 
-            src="src/assets/images/mainp1.jpg" 
+            src="/assets/images/mainp1.jpg" 
             alt="Prophetic Worship" 
             className="w-full h-full object-cover filter brightness-[0.3]"
             onError={(e) => (e.currentTarget.src = "/images/mainp1.jpg")}
