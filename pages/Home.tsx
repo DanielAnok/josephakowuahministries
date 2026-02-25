@@ -148,7 +148,7 @@ const Home: React.FC = () => {
             </div>
             <div className="lg:w-1/2 grid grid-cols-2 gap-4">
                <img src="/src/assets/images/seedtimharvestime.jpg" className="rounded-[2.5rem] h-64 w-full object-cover border-4 border-white/5 bg-slate-800" alt="Worship moment" />
-               <img src="/src/assets/images/sun-servc.jpg" className="rounded-[2.5rem] h-64 w-full object-cover mt-12 border-4 border-white/5 bg-slate-800" alt="Prophetic gathering" />
+               <img src="/src/assets/images/sunday-serv.jpg" className="rounded-[2.5rem] h-64 w-full object-cover mt-12 border-4 border-white/5 bg-slate-800" alt="Prophetic gathering" />
             </div>
           </div>
         </div>
