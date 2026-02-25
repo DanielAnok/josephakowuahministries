@@ -16,7 +16,7 @@ const Navbar: React.FC = () => {
     { name: 'Ministries', href: '#/ministries' },
     { name: 'Sermons', href: '#/sermons' },
     { name: 'Events', href: '#/events' },
-    { name: 'Prophetic AI', href: '#/ai-guidance' },
+    { name: 'Prayer Altar', href: '#/ai-guidance' },
     { name: 'Gallery', href: '#/gallery' },
     { name: 'Give', href: '#/give' },
   ];

@@ -41,7 +41,7 @@ const AIGuidance: React.FC = () => {
     <div className="min-h-screen bg-slate-50 py-12 md:py-20 animate-fadeIn selection:bg-amber-600/20">
       <div className="max-w-4xl mx-auto px-4">
         <div className="text-center mb-10">
-          <h1 className="text-4xl md:text-5xl font-bold text-slate-900 mb-4 tracking-tighter">Prophetic AI Altar</h1>
+          <h1 className="text-4xl md:text-5xl font-bold text-slate-900 mb-4 tracking-tighter">Masofa Altar</h1>
           <p className="text-lg text-slate-600 font-light max-w-2xl mx-auto leading-relaxed">Instant scriptural guidance and breakthrough prayers powered by divine wisdom.</p>
         </div>
 

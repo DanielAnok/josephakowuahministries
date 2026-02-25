@@ -31,10 +31,10 @@ const Home: React.FC = () => {
       <section className="relative h-[85vh] flex items-center overflow-hidden bg-slate-900">
         <div className="absolute inset-0 z-0">
           <img 
-            src="assets/images/mainp1.jpg" 
+            src="/src/assets/images/mainp1.jpg" 
             alt="Prophetic Worship" 
             className="w-full h-full object-cover filter brightness-[0.3]"
-            onError={(e) => (e.currentTarget.src = "/images/mainp1.jpg")}
+            onError={(e) => (e.currentTarget.src = "/src/assets/images/mainp1.jpg")}
           />
         </div>
         <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-white">
@@ -147,8 +147,8 @@ const Home: React.FC = () => {
               </div>
             </div>
             <div className="lg:w-1/2 grid grid-cols-2 gap-4">
-               <img src="/images/seedtimharvestime.jpg" className="rounded-[2.5rem] h-64 w-full object-cover border-4 border-white/5 bg-slate-800" alt="Worship moment" />
-               <img src="/images/sun servc.jpg" className="rounded-[2.5rem] h-64 w-full object-cover mt-12 border-4 border-white/5 bg-slate-800" alt="Prophetic gathering" />
+               <img src="/src/assets/images/seedtimharvestime.jpg" className="rounded-[2.5rem] h-64 w-full object-cover border-4 border-white/5 bg-slate-800" alt="Worship moment" />
+               <img src="/src/assets/images/sun-servc.jpg" className="rounded-[2.5rem] h-64 w-full object-cover mt-12 border-4 border-white/5 bg-slate-800" alt="Prophetic gathering" />
             </div>
           </div>
         </div>
