@@ -1,0 +1,10 @@
+
+{
+  "name": "Joseph Akowuah Ministries",
+  "description": "The official digital platform for Joseph Akowuah Ministries, featuring spiritual guidance, sermon archives, and direct connection to Apostle Joseph Akwasi Akowuah's prophetic mission.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ]
+}
