@@ -40,7 +40,7 @@ const Home: React.FC = () => {
           <div className="inline-block bg-amber-600 text-white px-4 py-1 rounded-full text-[10px] font-black uppercase tracking-[0.3em] mb-8 shadow-xl">
             Your Season of Divine Change is Here.
           </div>
-          <h1 className="text-6xl md:text-8xl font-bold mb-8 leading-[0.9] max-w-5xl tracking-tighter">
+          <h1 className="text-4xl md:text-8xl font-bold mb-8 leading-[0.9] max-w-5xl tracking-tighter">
             BLESSED <span className="text-amber-500">BAPTIST CHURCH</span> INTERNATIONAL
           </h1>
           <p className="text-xl md:text-2xl mb-12 text-slate-200 max-w-2xl leading-relaxed font-light">
