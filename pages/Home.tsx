@@ -38,7 +38,7 @@ const Home: React.FC = () => {
         </div>
         <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-white">
           <div className="inline-block bg-amber-600 text-white px-4 py-1 rounded-full text-[10px] font-black uppercase tracking-[0.3em] mb-8 shadow-xl">
-            Your Season of Divine Change is Here.
+            Your Season of Divine Change
           </div>
           <h1 className="text-4xl md:text-8xl font-bold mb-8 leading-[0.9] max-w-5xl tracking-tighter">
             BLESSED <span className="text-amber-500">BAPTIST CHURCH</span> INTERNATIONAL
