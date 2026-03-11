@@ -71,7 +71,11 @@ const Home: React.FC = () => {
         <div className="max-w-4xl mx-auto px-4">
           <span className="text-amber-500 text-5xl font-serif">"</span>
           <h2 className="text-3xl md:text-5xl font-serif italic mb-8 leading-tight">
-            The prophetic is not just about telling the future; it is about creating the future God intended for you.
+            Go ye into all the world, and preach the gospel to every creature. He that believeth and is baptized shall be saved; 
+            but he that believeth not shall be damned. And these signs shall follow them that believe; 
+            In my name shall they cast out devils; they shall speak with new tongues; they shall take up serpents; 
+            and if they drink any deadly thing, 
+            it shall not hurt them; they shall lay hands on the sick, and they shall recover.
           </h2>
           <p className="uppercase tracking-[0.3em] text-amber-500 font-bold text-xs">- Apostle Joseph Akwasi Akowuah</p>
         </div>
